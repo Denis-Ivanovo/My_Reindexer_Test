@@ -1,0 +1,20 @@
+#example 
+
+version: 1.0
+
+app:
+  name: "Make a request to the Reindexer"
+  description: Welcome to ${name}
+
+my:
+  greeting: Hello Reindexer!
+
+golang:
+  version: 1.20
+
+db:
+  host: "localhost"
+  port: "6534"
+  dbname: "testdb"
+  user: "user"
+  password: "pass"

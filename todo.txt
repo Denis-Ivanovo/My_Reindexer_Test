@@ -1,0 +1,4 @@
+1. Golang Microservices: Configuration, Environment Variables and Vault
+1.1. os.Environment
+1.2. goDotEnv <- github
+1.3. envconfig <- github
